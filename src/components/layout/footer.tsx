@@ -17,7 +17,7 @@ export function Footer() {
     <footer className="mx-auto w-full max-w-[960px] px-4 pb-10 pt-4">
       <Separator className="mb-7" />
       <div className="flex flex-col gap-5 text-sm text-muted-foreground md:flex-row md:items-center md:justify-between">
-        <p>© 2026 {profile.name}</p>
+        <p>© 2026 | Made by {profile.name} for the world</p>
         <div className="flex items-center gap-5">
           {footerLinks.map((link) => (
             <Link

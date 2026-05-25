@@ -1,0 +1,16 @@
+
+> ariz-faiyaz-portfolio@0.1.0 dev
+> next dev --hostname 127.0.0.1 --port 3003
+
+   ▲ Next.js 15.5.18
+   - Local:        http://127.0.0.1:3003
+   - Network:      http://127.0.0.1:3003
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 3s
+ ○ Compiling /api/visitor ...
+ ✓ Compiled /api/visitor in 4.1s (309 modules)
+ GET /api/visitor 200 in 6140ms
+ GET /api/visitor 200 in 7273ms
+[?25h
