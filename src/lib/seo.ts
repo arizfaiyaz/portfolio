@@ -10,6 +10,11 @@ export const defaultMetadata: Metadata = {
   description: siteConfig.description,
   authors: [{ name: siteConfig.author }],
   creator: siteConfig.author,
+  icons: {
+    icon: "/images/ariz-avatar-idle.png",
+    shortcut: "/images/ariz-avatar-idle.png",
+    apple: "/images/ariz-avatar-idle.png",
+  },
   openGraph: {
     title: siteConfig.title,
     description: siteConfig.description,
