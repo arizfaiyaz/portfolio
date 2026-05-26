@@ -21,4 +21,14 @@ export const funProjects: Project[] = [
     liveUrl: "dragon-repeller-lac.vercel.app",
     featured: true,
   },
+  {
+    title: "ChimpScript",
+    description:
+      "ChimpScript is a tool to help you write syntax faster and efficiently",
+    image: "/images/projects/ChimpScript.png",
+    tech: ["TypeScript", "Tailwind CSS", "React/Vite"],
+    githubUrl: "https://github.com/arizfaiyaz/ChimpScript",
+    liveUrl: "https://chimpscript.vercel.app",
+    featured: true,
+  },
 ];
